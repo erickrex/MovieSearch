@@ -1,4 +1,5 @@
 import React, {useState} from "react";
+import MovieCard from './movieCard.js';
 
 export default function SearchMovies(){
 
